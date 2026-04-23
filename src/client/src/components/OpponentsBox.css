@@ -1,0 +1,11 @@
+.opponents-box {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: flex-start;
+	box-sizing: border-box;
+	padding: 4vmin;
+	gap: 1vmin;
+	width: 100%;
+	height: 100%;
+}
