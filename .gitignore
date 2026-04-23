@@ -1,0 +1,17 @@
+node_modules
+package-lock.json
+*.log
+
+# Output directory
+dist
+
+# @vitjs/vit temporary directory
+.vit
+
+.eslintcache
+.env
+
+.DS_Store
+.vscode
+
+coverage
