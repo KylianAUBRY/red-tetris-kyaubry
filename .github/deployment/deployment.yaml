@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: kyaubry42
-        image: pouletenfuite/red-tetris:v1
+        image: pouletenfuite/red-tetris:v2
         ports:
         - containerPort: 8888
